@@ -3,7 +3,7 @@
 #
 
 <div align="center">
-    <img src="../assets/minggu2/dir.jpg" width="70%">
+    <img src="../../assets/minggu2/dir.jpg" width="70%">
 </div>
 
 ### "/" Root

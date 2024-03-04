@@ -8,7 +8,7 @@ _class:invert
 
 ---
 
-![Debian Logo](../assets/minggu2/debian.jpg)
+![Debian Logo](../../assets/minggu2/debian.jpg)
 
 ---
 

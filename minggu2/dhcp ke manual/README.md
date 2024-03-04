@@ -7,7 +7,7 @@
 Untuk melakukan cek IP bisa menggunakan command `$ ip addr` pada terminal Debian. Bisa dilihat pada gambar bahwa device saya mendapatkan ip **10.0.2.15** dari DHCP. <br>
 
 <div align="center">
-    <img src="../assets/minggu2/1.png" width="70%">
+    <img src="../../assets/minggu2/1.png" width="70%">
 </div>
 
 ### 2. Cek IP Gateway
@@ -15,7 +15,7 @@ Untuk melakukan cek IP bisa menggunakan command `$ ip addr` pada terminal Debian
 Selanjutnya adalah cek gateway terlebih dahulu menggunakan command `$ sudo route -n` pada terminal Debian, pastikan menggunakan user dengan privilege _root_ atau _superuser_. Alamat gateway tertera pada gambar adalah **10.0.2.2** <br>
 
 <div align="center">
-    <img src="../assets/minggu2/2.png" width="70%">
+    <img src="../../assets/minggu2/2.png" width="70%">
 </div>
 
 ### 3. Konfigurasi IP Manual Pada Wired Network
@@ -30,7 +30,7 @@ Konfigurasi IP Manual melalui _Wired Network_ dengan detail sebagai berikut:
     <li>DNS: Google (8.8.8.8)</li>
 </ul>
 <div align="center">
-    <img src="../assets/minggu2/3.png" width="70%">
+    <img src="../../assets/minggu2/3.png" width="70%">
 </div>
 
 ### 4. Cek IP Address Manual
@@ -38,5 +38,5 @@ Konfigurasi IP Manual melalui _Wired Network_ dengan detail sebagai berikut:
 Setelah mengkonfigurasi IP secara manual, restart _Wired Network_ lalu cek ulang menggunakan command `$ ip addr` pada terminal Debian. Bisa terlihat pada gambar bahwa IP telah berganti ke **10.0.2.17** <br>
 
 <div align="center">
-    <img src="../assets/minggu2/4.png" width="70%">
+    <img src="../../assets/minggu2/4.png" width="70%">
 </div>
